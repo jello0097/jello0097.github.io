@@ -5,9 +5,11 @@ categories:
 tags:
 - sqld
 description: 2020.05.31 SQLD 시험을 본 뒤 결과를 기다리며 공부하며 배웠던 이론들을 정리하기 위해 포스팅을 시작합니다.
+toc: true
+toc_sticky: true
 ---
 
-### SQLD(Structured Query Language Developer)란?
+### SQLD 이란?
 > 데이터베이스와 데이터 모델링에 대한 지식을 바탕으로 응용소프트웨어를 개발하면서 데이터를 조작하고 추출하는데 있어서 정확하고 최적의  성능을 발휘하는 SQL을 작성할 수 있는 개발자를 말합니다.
 <br>
 [한국데이터산업진흥원](https://www.kdata.or.kr/)

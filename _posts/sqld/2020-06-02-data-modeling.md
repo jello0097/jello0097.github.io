@@ -4,6 +4,8 @@ categories:
 - sqld
 tags:
 - sqld
+toc: true
+toc_sticky: true
 ---
 
 ### 데이터 모델링이란?
