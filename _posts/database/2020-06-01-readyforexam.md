@@ -4,7 +4,7 @@ categories:
 - sqld
 tags:
 - sqld
-description: 2020.05.31 SQLD 시험을 본 뒤 결과를 기다리며 공부하며 배웠던 이론들을 정리하기 위해 포스팅을 시작합니다.
+description: 2020.05.31 SQLD 시험을 본 뒤 결과를 기다리며 이론들을 정리하기 위해 포스팅을 시작한다.
 toc: true
 toc_sticky: true
 ---
